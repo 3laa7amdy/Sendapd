@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sendapd</string>
+
+    <string-array name="index">
+
+        <item>الحديقة النظيفة</item>
+        <item>حمودة و الببغاء الحبيسة</item>
+        <item>كل شجرة بثلاث</item>
+        <item>جزاء الصيادين</item>
+        <item>كان حلما والحمد لله</item>
+        <item>الشجرة الطيبة</item>
+        <item>الشجرة المغرورة</item>
+        <item>يحيا العدل</item>
+        <item>انها زهرة واحدة</item>
+
+
+    </string-array>
+</resources>
